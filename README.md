@@ -1,5 +1,5 @@
 # HTML Projects
-This repository contains my projects and some proctices in HTML.
+This repository contains my projects and some practices in HTML.
 
 ## Projects
 **rahmania**: My first HTML project, a simple page to practice structure and tags.
